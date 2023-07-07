@@ -1,0 +1,13 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ACM-PocketMine-MP/await-std
+build-by-default: true
+branches:
+- PM5
+projects:
+  await-std:
+    path: ""
+    model: virion
+    type: library
+    libs:
+      - src: SOF3/await-generator/await-generator
+        version: "^3.3.0"
+        epitope: .random
