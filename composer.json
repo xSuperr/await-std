@@ -12,6 +12,12 @@
 			"SOFe\\AwaitStd\\": "src/"
 		}
 	},
+	"extra": {
+		"virion":{
+			"spec": "3.0",
+			"namespace-root": "SOFe\\AwaitGenerator"
+		}
+	}
 	"require-dev": {
 		"phpstan/phpstan": "^0.12.84"
 	}
