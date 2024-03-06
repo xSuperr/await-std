@@ -4,7 +4,7 @@
 	"description": "Writing user-friendly PocketMine plugins fluently with await-generator style",
 	"license": "Apache-2.0",
 	"require": {
-		"pocketmine/pocketmine-mp": "^4.0.0",
+		"pocketmine/pocketmine-mp": "^5.0.0",
 		"sof3/await-generator": "^3.3.0"
 	},
 	"autoload": {
